@@ -178,3 +178,4 @@ LOCI built images at this time.
 
 The project is very low-entropy with very little changing, but this is expected.
 The highest traffic section of LOCI is the gates.
+# loci
